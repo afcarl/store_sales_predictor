@@ -11,4 +11,5 @@ so I had to train the model on terminal in the file
 In this file I trained the NN and saved the model
 
 > predict.ipynb
+
 This file loads the model and test dataset and predict the results which are stored in **ans.csv**
